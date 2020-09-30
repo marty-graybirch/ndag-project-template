@@ -1,0 +1,4 @@
+.vscode*
+*.DS_Store
+# Ignore the python virtual environment. Recreated for platform portability via setenv.sh script
+.venv*
